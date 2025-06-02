@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/r2g8jzt4/technology-communication-icons-symbols-concept.jpg",
+        "title": "Exploring the Future of AI",
+        "author": "Jordan Clarke",
+        "author_img": "https://i.ibb.co/bMT4yZHG/male-model-wearing-suspenders-accessory-writes.jpg",
+        "posted_date": "2025-05-20",
+        "reading_time": 6,
+        "hashtags": [
+            "#AI",
+            "#Technology",
+            "#Future"
+        ]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/20dMp23P/map-lying-wooden-table.jpg",
+        "title": "The Art of Minimalist Living",
+        "author": "Samantha Reyes",
+        "author_img": "https://i.ibb.co/Fk0Lsc4j/portrait-young-bearded-man-reading-book.jpg",
+        "posted_date": "2025-04-12",
+        "reading_time": 4,
+        "hashtags": [
+            "#Minimalism",
+            "#Lifestyle",
+            "#Mindfulness"
+        ]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/KcnTNj24/person-using-laptop-cafe.jpg",
+        "title": "Understanding Quantum Computing",
+        "author": "Dr. Leo Nakamura",
+        "author_img": "https://i.ibb.co/Kz5TYN23/man-reading-book-indoors-front-view.jpg",
+        "posted_date": "2025-06-01",
+        "reading_time": 10,
+        "hashtags": [
+            "#Quantum",
+            "#Computing",
+            "#Science"
+        ]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/LzgVhrz1/worker-reading-news-with-tablet.jpg",
+        "title": "Mastering Remote Work",
+        "author": "Priya Desai",
+        "author_img": "https://i.ibb.co/mCWnnXK3/interior-designer-working-out-office.jpg",
+        "posted_date": "2025-05-28",
+        "reading_time": 5,
+        "hashtags": [
+            "#RemoteWork",
+            "#Productivity",
+            "#WorkFromHome"
+        ]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/YFzdFDn9/blogging-fun-content-creation-online-streaming-video-blog-young-girl-making-selfie-social-network-sh.jpg",
+        "title": "A Beginner’s Guide to Investing",
+        "author": "Michael Tran",
+        "author_img": "https://i.ibb.co/dJwHkGLP/portrait-elegant-old-man.jpg",
+        "posted_date": "2025-03-15",
+        "reading_time": 7,
+        "hashtags": [
+            "#Investing",
+            "#Finance",
+            "#MoneyTips"
+        ]
+    }
+]
+
+
+
+
+
